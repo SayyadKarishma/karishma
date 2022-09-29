@@ -316,6 +316,10 @@ For the user query of `When is your birthday?`, each personality has a styled re
     ```
 
     Because the question of `Thank you` exactly matched a Chit-chat question, QnA Maker is completely confident with the score of 100. QnA Maker also returned all the related questions, as well as the metadata property containing the Chit-chat metadata tag information.  
+    ![karishma12344-bot - Microsoft Azure - Google Chrome 29-09-2022 14_12_17](https://user-images.githubusercontent.com/112955085/192986518-9e8d7a3d-9b80-4249-9f41-373a45d2880a.png)
+demo bot
+![karishma12344-bot - Microsoft Azure - Google Chrome 29-09-2022 14_12_29](https://user-images.githubusercontent.com/112955085/192986647-72f82870-43a4-4113-86f8-106c56c42ffb.png)
+
 
 #### Chat with the bot
 
