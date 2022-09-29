@@ -326,6 +326,8 @@ demo bot
 Go back in **Test in Web Chat** on Azure Portal and chat with your bot.
 
 ![Screenshot of test in portal](media/test-in-web-chat.PNG)
+  ![karishma12344-bot - Microsoft Azure - Google Chrome 29-09-2022 14_12_43](https://user-images.githubusercontent.com/112955085/192986880-9eb208b1-198a-4a22-83a2-5793a6355aa5.png)
+
 
 ## Clean up resources
 Finally, If you don't expect to need these resources in the future, you can delete them by deleting the resource group. To do so, select the resource group for this workshop, select Delete, then confirm the name of the resource group to delete.
